@@ -1,116 +1,114 @@
 {
-  "musics": [
-   
-  {
-    "id": 1,
-    "name": "The Beatles",
-    "title": "Hey Jude",
-    "length": "7:11",
-    "album": "The Beatles (The White Album)",
-    "genre": "Rock"
-  },
-  {
-    "id": 2,
-    "name": "Michael Jackson",
-    "title": "Billie Jean",
-    "length": "4:54",
-    "album": "Thriller",
-    "genre": "Pop"
-  },
-  {
-    "id": 3,
-    "name": "Led Zeppelin",
-    "title": "Stairway to Heaven",
-    "length": "8:02",
-    "album": "Led Zeppelin IV",
-    "genre": "Rock"
-  },
-  {
-    "id": 4,
-    "name": "Prince",
-    "title": "Purple Rain",
-    "length": "8:41",
-    "album": "Purple Rain",
-    "genre": "Pop"
-  },
-  {
-    "id": 5,
-    "name": "David Bowie",
-    "title": "Space Oddity",
-    "length": "5:16",
-    "album": "David Bowie (aka Space Oddity)",
-    "genre": "Rock"
-  },
-  {
-    "id": 6,
-    "name": "Fleetwood Mac",
-    "title": "Dreams",
-    "length": "4:17",
-    "album": "Rumours",
-    "genre": "Rock"
-  },
-  {
-    "id": 7,
-    "name": "Amy Winehouse",
-    "title": "Back to Black",
-    "length": "4:08",
-    "album": "Back to Black",
-    "genre": "Soul"
-  },
-  {
-    "id": 8,
-    "name": "Elton John",
-    "title": "Rocket Man",
-    "length": "4:41",
-    "album": "Honky Château",
-    "genre": "Pop"
-  },
-  {
-    "id": 9,
-    "name": "Nirvana",
-    "title": "Smells Like Teen Spirit",
-    "length": "5:01",
-    "album": "Nevermind",
-    "genre": "Grunge"
-  },
-  {
-    "id": 10,
-    "name": "Bob Dylan",
-    "title": "Like a Rolling Stone",
-    "length": "6:13",
-    "album": "Highway 61 Revisited",
-    "genre": "Rock"
-  },
-  {
-    "id": 11,
-    "name": "The Rolling Stones",
-    "title": "(I Can't Get No) Satisfaction",
-    "length": "3:44",
-    "album": "Out of Our Heads",
-    "genre": "Rock"
-  },
-  {
-    "id": 12,
-    "name": "Queen",
-    "title": "Bohemian Rhapsody",
-    "length": "5:54",
-    "album": "A Night at the Opera",
-    "genre": "Rock"
-  },
-  {
-    "id": 13,
-    "name": "Jimi Hendrix",
-    "title": "Purple Haze",
-    "length": "2:51",
-    "album": "Are You Experienced",
-    "genre": "Rock"
+    "musics": [
+     
+    {
+      "id": 1,
+      "name": "The Beatles",
+      "title": "Hey Jude",
+      "length": "7:11",
+      "album": "The Beatles (The White Album)",
+      "genre": "Rock"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "title": "Billie Jean",
+      "length": "4:54",
+      "album": "Thriller",
+      "genre": "Pop"
+    },
+    {
+      "id": 3,
+      "name": "Led Zeppelin",
+      "title": "Stairway to Heaven",
+      "length": "8:02",
+      "album": "Led Zeppelin IV",
+      "genre": "Rock"
+    },
+    {
+      "id": 4,
+      "name": "Prince",
+      "title": "Purple Rain",
+      "length": "8:41",
+      "album": "Purple Rain",
+      "genre": "Pop"
+    },
+    {
+      "id": 5,
+      "name": "David Bowie",
+      "title": "Space Oddity",
+      "length": "5:16",
+      "album": "David Bowie (aka Space Oddity)",
+      "genre": "Rock"
+    },
+    {
+      "id": 6,
+      "name": "Fleetwood Mac",
+      "title": "Dreams",
+      "length": "4:17",
+      "album": "Rumours",
+      "genre": "Rock"
+    },
+    {
+      "id": 7,
+      "name": "Amy Winehouse",
+      "title": "Back to Black",
+      "length": "4:08",
+      "album": "Back to Black",
+      "genre": "Soul"
+    },
+    {
+      "id": 8,
+      "name": "Elton John",
+      "title": "Rocket Man",
+      "length": "4:41",
+      "album": "Honky Château",
+      "genre": "Pop"
+    },
+    {
+      "id": 9,
+      "name": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "length": "5:01",
+      "album": "Nevermind",
+      "genre": "Grunge"
+    },
+    {
+      "id": 10,
+      "name": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "length": "6:13",
+      "album": "Highway 61 Revisited",
+      "genre": "Rock"
+    },
+    {
+      "id": 11,
+      "name": "The Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
+      "length": "3:44",
+      "album": "Out of Our Heads",
+      "genre": "Rock"
+    },
+    {
+      "id": 12,
+      "name": "Queen",
+      "title": "Bohemian Rhapsody",
+      "length": "5:54",
+      "album": "A Night at the Opera",
+      "genre": "Rock"
+    },
+    {
+      "id": 13,
+      "name": "Jimi Hendrix",
+      "title": "Purple Haze",
+      "length": "2:51",
+      "album": "Are You Experienced",
+      "genre": "Rock"
+    }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ]
+  
   }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
