@@ -106,9 +106,14 @@
       "genre": "Rock"
     }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ]
+    "individual_music": [  {
+      "id": 13,
+      musics:[{  "id": 13,
+      "name": "Jimi Hendrix",
+      "title": "Purple Haze",
+      "length": "2:51",
+      "album": "Are You Experienced",
+      "genre": "Rock"}]
+    } ]
   
   }
